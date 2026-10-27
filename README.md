@@ -8,7 +8,6 @@ The prototype was constructed using the **"Dead-Bug / Manhattan" free-form solde
 
 ## 📸 Prototype Showcase
 
-<!-- Fotoğrafları repoya yükledikten sonra isimlerini aşağıdaki dosyalarla eşleştirebilirsiniz -->
 <p align="center">
   <img src="circuit_prototype.jpg" alt="FM Transmitter Dead-Bug Assembly" width="550">
 </p>
