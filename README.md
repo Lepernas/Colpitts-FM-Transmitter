@@ -32,7 +32,7 @@ The prototype was constructed using the **"Dead-Bug / Manhattan" free-form solde
 ## 📐 Circuit Schematic
 
 <p align="center">
-  <img src="schematic.jpeg" alt="Proteus Circuit Schematic" width="750">
+  <img src="single-transistor-fm-transmitter/shematic.jpeg" alt="Proteus Circuit Schematic" width="750">
 </p>
 
 *SPICE/Proteus simulation schematic showing the Colpitts oscillator core, audio coupling network, and RF tank configuration.*
