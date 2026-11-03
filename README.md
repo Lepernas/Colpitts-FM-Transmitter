@@ -9,8 +9,22 @@ The prototype was constructed using the **"Dead-Bug / Manhattan" free-form solde
 ## 📸 Prototype Showcase
 
 <p align="center">
-  <img src="circuit_prototype.jpg" alt="FM Transmitter Dead-Bug Assembly" width="550">
+  <img src="side-1.jpeg" alt="FM Transmitter Side View 1" width="48%">
+  <img src="side-2.jpeg" alt="FM Transmitter Side View 2" width="48%">
 </p>
+<p align="center">
+  <img src="top-down.jpeg" alt="FM Transmitter Top-Down Layout" width="65%">
+</p>
+
+---
+
+## 📐 Circuit Schematic
+
+<p align="center">
+  <img src="ProteusShematic.jpeg" alt="Proteus Circuit Schematic" width="750">
+</p>
+
+*Simulation schematic showing the Colpitts oscillator core, audio coupling network, and RF tank configuration.*
 
 ---
 
@@ -25,16 +39,6 @@ The prototype was constructed using the **"Dead-Bug / Manhattan" free-form solde
 * **Antenna Setup:** ~15 cm flexible jumper wire (acting as a shortened monopole radiator)
 * **Tested Transmission Range:** Direct laboratory desk verification (~0.5 m LOS to receiver antenna)
 * **Grounding Scheme:** Continuous ground plane on single-sided copper laminate
-
----
-
-## 📐 Circuit Schematic
-
-<p align="center">
-  <img src="single-transistor-fm-transmitter/shematic.jpeg" alt="Proteus Circuit Schematic" width="750">
-</p>
-
-*SPICE/Proteus simulation schematic showing the Colpitts oscillator core, audio coupling network, and RF tank configuration.*
 
 ---
 
