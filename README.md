@@ -9,11 +9,11 @@ The prototype was constructed using the **"Dead-Bug / Manhattan" free-form solde
 ## 📸 Prototype Showcase
 
 <p align="center">
-  <img src="side-1.jpeg" alt="FM Transmitter Side View 1" width="48%">
-  <img src="side-2.jpeg" alt="FM Transmitter Side View 2" width="48%">
+  <img src="Colpitts-FM-Transmitter/side-1.jpeg" alt="FM Transmitter Side View 1" width="48%">
+  <img src="Colpitts-FM-Transmitter/side-2.jpeg" alt="FM Transmitter Side View 2" width="48%">
 </p>
 <p align="center">
-  <img src="top-down.jpeg" alt="FM Transmitter Top-Down Layout" width="65%">
+  <img src="Colpitts-FM-Transmitter/top-down.jpeg" alt="FM Transmitter Top-Down Layout" width="65%">
 </p>
 
 ---
@@ -21,7 +21,7 @@ The prototype was constructed using the **"Dead-Bug / Manhattan" free-form solde
 ## 📐 Circuit Schematic
 
 <p align="center">
-  <img src="ProteusShematic.jpeg" alt="Proteus Circuit Schematic" width="750">
+  <img src="Colpitts-FM-Transmitter/ProteusShematic.jpeg" alt="Proteus Circuit Schematic" width="750">
 </p>
 
 *Simulation schematic showing the Colpitts oscillator core, audio coupling network, and RF tank configuration.*
